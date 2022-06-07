@@ -26,8 +26,9 @@ Our findings are as follow:
 
 ![Screen Shot 2022-06-07 at 3 08 08 PM](https://user-images.githubusercontent.com/98566486/172463047-e1a42fee-3b3e-442a-b5e3-e9dc04092bca.png)
 
+![Screen Shot 2022-06-07 at 3 24 09 PM](https://user-images.githubusercontent.com/98566486/172465318-b0232407-e4e5-4ce3-8f9a-8770d0f97b7f.png)
 
-![Screen Shot 2022-06-07 at 3 10 46 PM](https://user-images.githubusercontent.com/98566486/172463150-1feda01a-2012-4441-8b9f-bd6e04dc07d2.png
+
 
 * There are 20 five stars paid Vine members reviews and there are 15,689 five stars paid Vine members reviews.
 
