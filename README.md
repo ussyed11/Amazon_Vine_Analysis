@@ -29,7 +29,6 @@ Our findings are as follow:
 ![Screen Shot 2022-06-07 at 3 24 09 PM](https://user-images.githubusercontent.com/98566486/172465318-b0232407-e4e5-4ce3-8f9a-8770d0f97b7f.png)
 
 
-
 * There are 20 five stars paid Vine members reviews and there are 15,689 five stars paid Vine members reviews.
 
 ![Screen Shot 2022-06-07 at 3 12 18 PM](https://user-images.githubusercontent.com/98566486/172463549-706b439d-6ad6-4f8a-886f-2f398b93cef7.png)
@@ -41,7 +40,6 @@ Our findings are as follow:
 ![Screen Shot 2022-06-07 at 3 14 24 PM](https://user-images.githubusercontent.com/98566486/172463929-71c18189-038b-4679-8c66-3d484c1bb70c.png)
 
 ![Screen Shot 2022-06-07 at 3 14 32 PM](https://user-images.githubusercontent.com/98566486/172463976-725922e9-6d3f-484f-aa70-06859b67d475.png)
-
 
 
 ## Summary: 
