@@ -10,7 +10,7 @@ Companies that will pay a fee to Amazon and may provide free products to Vine me
 
 Out of the 50 datasets, I chose to analyze reviews that were made by users in the "grocery" category.
 
-The url for the Dataset used for this analysis is https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Grocery_v1_00.tsv.gz
+The URL for the Dataset used for this analysis is https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Grocery_v1_00.tsv.gz
 
 
 
